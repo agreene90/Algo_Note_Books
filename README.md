@@ -29,8 +29,8 @@ Algo Note Books is an open-source archive of Jupyter notebooks, created by Ant G
 - Libraries: numpy, pandas, matplotlib, scikit-learn, tensorflow
 
 ### Installation
-1. Clone the repository: `git clone [(https://github.com/agreene90/Algo_Note_Books)]`
-2. Install required Python packages: `pip install -r requirements.txt` (assuming a requirements file is present)
+Clone the repository: `git clone [(https://github.com/agreene90/Algo_Note_Books)]`
+
 
 ## Usage 💻
 To use the notebooks:
