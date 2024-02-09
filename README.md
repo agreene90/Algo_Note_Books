@@ -2,7 +2,7 @@
 
 ## Overview 🌟
 
-Algo Note Books is an open-source archive of Jupyter notebooks, created by Ant Greene, showcasing a variety of algorithms and techniques in data analysis, machine learning, and natural language processing. Each notebook is a standalone example, demonstrating key concepts with practical code and explanations.
+Algo Note Books is an open-source archive of Jupyter notebooks, created by Ant Greene (me), showcasing a variety of algorithms and techniques in data analysis, machine learning, and natural language processing. Each notebook is a standalone example, demonstrating key concepts with practical code and explanations.
 
 ## Notebooks 📓
 
@@ -22,7 +22,11 @@ Algo Note Books is an open-source archive of Jupyter notebooks, created by Ant G
 - **Description**: Implementation and visualization of the K-Means clustering algorithm. Includes generation of synthetic data with distinct clusters.
 - **Key Concepts**: K-Means Clustering, Unsupervised Learning, Data Visualization.
 
-### 5. negative-Floattree.ipynb
+### 5. GP_learning_1.ipynb
+- **Description**: Explores Genetic Programming (GP) techniques for evolving algorithms and solutions to complex problems. Demonstrates GP methodology and application.
+- **Key Concepts**: Genetic Programming, Evolutionary Algorithms, Problem Solving.
+
+### 6. negative-Floattree.ipynb
 - **Description**: Visualizes fractals based on negative floats, detailing their properties (scale, angle, depth) derived from the float's structure. Each number creates a distinct fractal and an analytical breakdown.
 - **Key Concepts**: Fractals, Floating-Point Numbers, Data Visualization, Pattern Analysis.
 
