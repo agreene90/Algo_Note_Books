@@ -36,6 +36,8 @@ Algo Note Books is an open-source archive of Jupyter notebooks, created by Ant G
 Clone the repository: 
 ```bash
 git clone https://github.com/agreene90/Algo_Note_Books.git
+cd DEMO
+ls -al
 ```
 
 ## Usage 💻
