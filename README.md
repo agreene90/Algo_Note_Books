@@ -22,6 +22,10 @@ Algo Note Books is an open-source archive of Jupyter notebooks, created by Ant G
 - **Description**: Implementation and visualization of the K-Means clustering algorithm. Includes generation of synthetic data with distinct clusters.
 - **Key Concepts**: K-Means Clustering, Unsupervised Learning, Data Visualization.
 
+### 5. GP_learning_1.ipynb
+- **Description**: Showcases the implementation of a genetic algorithm for optimization and its visualization over generations. It includes the evolution of a population towards maximizing a fitness function.
+- **Key Concepts**: Genetic Algorithms, Evolutionary Computation, Optimization, Data Visualization.
+
 ## Getting Started 🚀
 
 ### Prerequisites
@@ -33,7 +37,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/agreene90/Algo_Note_Books.git
 ```
-
 
 ## Usage 💻
 To use the notebooks:
