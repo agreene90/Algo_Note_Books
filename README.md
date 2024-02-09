@@ -22,6 +22,10 @@ Algo Note Books is an open-source archive of Jupyter notebooks, created by Ant G
 - **Description**: Implementation and visualization of the K-Means clustering algorithm. Includes generation of synthetic data with distinct clusters.
 - **Key Concepts**: K-Means Clustering, Unsupervised Learning, Data Visualization.
 
+### 5. negative-Floattree.ipynb
+- **Description**: Generates unique fractal patterns based on negative floating-point numbers. The script visualizes the properties of these numbers through fractal geometry, with each number influencing the fractal's structure.
+- **Key Concepts**: Fractals, Floating-Point Numbers, Data Visualization.
+
 ## Getting Started 🚀
 
 ### Prerequisites
