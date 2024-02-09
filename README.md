@@ -54,11 +54,3 @@ Contributors are welcome to add new notebooks to this open-source archive. The k
 
 ## License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Authors ✍️
-- Ant Greene - Initial work
-
-## Acknowledgments 👏
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc.
