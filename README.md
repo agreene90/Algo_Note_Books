@@ -30,6 +30,11 @@ Algo Note Books is an open-source archive of Jupyter notebooks, created by Ant G
 - **Description**: Visualizes fractals based on negative floats, detailing their properties (scale, angle, depth) derived from the float's structure. Each number creates a distinct fractal and an analytical breakdown.
 - **Key Concepts**: Fractals, Floating-Point Numbers, Data Visualization, Pattern Analysis.
 
+### 7. QJulia.ipynb
+- **Description**: Interactive exploration of Julia sets with quantum computing principles. This notebook provides a UI for visualizing Julia fractals, allowing parameter adjustments for real and imaginary components, plot range, and iteration depth.
+- **Key Concepts**: Julia Sets, Fractal Generation, Quantum Computing, Complex Dynamics, Interactive Visualization.
+
+
 ## Getting Started 🚀
 
 ### Prerequisites
